@@ -1,0 +1,8 @@
+Django                        == 4.2.1
+djangorestframework           == 3.14.0
+djangorestframework-simplejwt == 5.2.2
+django-autoslug               == 1.9.9
+django-countries              == 7.5.1
+pip                           == 23.0.1
+psycopg2                      == 2.9.6
+xhtml2pdf                     == 0.2.11
